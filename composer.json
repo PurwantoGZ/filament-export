@@ -1,5 +1,5 @@
 {
-    "name": "smallerid/filament-exportt",
+    "name": "smaller-id/filament-exportt",
     "description": "Customizable export and print functionality for Filament Admin Panel",
     "autoload": {
         "psr-4": {
